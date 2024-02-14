@@ -131,6 +131,7 @@ Operador `+`: Une dos listas.
 
  ```python
 lista_nueva = [1, 2, 3] + [4, 5, 6]
+ ```
 
 #### Repetición
 Operador `*`: Repite los elementos de una lista un número determinado de veces.
