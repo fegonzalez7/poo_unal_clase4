@@ -6,7 +6,7 @@ class TestMaxConsecutiveSum(unittest.TestCase):
     self.assertEqual(max_consecutive_sum([1, 2, 3, 4, 5]), 9)
     self.assertEqual(max_consecutive_sum([5, 2, 8, 1, 3]), 10)
     self.assertEqual(max_consecutive_sum([-1, -2, -3, -4, -5]), -3)
-    self.assertEqual(max_consecutive_sum([2, 3, -5, 8, -1]), 3)
+    self.assertEqual(max_consecutive_sum([2, 3, -5, 8, -1]), 7)
     self.assertEqual(max_consecutive_sum([2, 3, 5, 8, 1]), 13)
 
 if __name__ == '__main__':
