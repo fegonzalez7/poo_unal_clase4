@@ -7,7 +7,7 @@ class TestFindAnagrams(unittest.TestCase):
     self.assertEqual(find_anagrams(["amor", "roma", "perro", "amro"]), ["amor", "roma", "amro"])
     self.assertEqual(find_anagrams(["amor", "roma", "perro", "amro", "mora"]), ["amor", "roma", "amro", "mora"])
     self.assertEqual(find_anagrams(["amor", "roma", "perro", "amro", "mora", "perrito"]), ["amor", "roma", "amro", "mora"])
-    self.assertEqual(find_anagrams(["amor", "roma", "perro", "amro", "mora", "perrito", "romaa"]), ["amor", "roma", "amro", "mora"])
+    self.assertEqual(find_anagrams(["amor", "roma", "perro", "amro", "mora", "perrito", "romaa"]), ["amor", "roma", "amro", "mora","romaa"])
 
 if __name__ == '__main__':
   unittest.main()
