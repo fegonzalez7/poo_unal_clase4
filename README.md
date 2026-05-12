@@ -350,6 +350,13 @@ print(addAll(1, 2, 3, 4))
 ```
 *Resultado por consola:* `10`
 
+### Info adicional
+
+-[Bucles_de_Python](https://www.w3schools.com/python/python_while_loops.asp)
+
+-[Listas_de_Python](https://www.w3schools.com/python/python_lists.asp)
+
+-[Tipos_de_argumentos_en_Python](https://www.geeksforgeeks.org/python/types-of-arguments-in-python-1/)
 
 -----
 
